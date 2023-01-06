@@ -1,6 +1,6 @@
 # MultiPeriod BIPV Optimisation SBE23
  A record of the model and processing for a publication submitted to SBE23.  
- The original repository for the EnergyHubs sectino comes from https://github.com/christophwaibel/EnergyHubs/tree/master/CplexEnergyHubs/SBE22MultiPeriodPV 
+ The original repository for the EnergyHubs section comes from: https://github.com/christophwaibel/EnergyHubs/tree/master/CplexEnergyHubs/SBE22MultiPeriodPV 
 
  DOI Pending  
 
